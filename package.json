@@ -6,5 +6,8 @@
   "repository": "https://github.com/iKuartz/near-marketplace-contract.git",
   "author": "Ivan <ivankuartz@hotmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
 }
