@@ -1,0 +1,10 @@
+{
+  "name": "Marketplace",
+  "version": "1.0.0",
+  "description": "A Marketplace deployed in the NEAR blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/iKuartz/near-marketplace-contract.git",
+  "author": "Ivan <ivankuartz@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
